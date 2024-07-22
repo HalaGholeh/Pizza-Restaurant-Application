@@ -48,9 +48,10 @@ Advance Pizza is an Android application designed for a pizza restaurant to enabl
 5. Order pizzas, add to favorites, view order history, and manage profile information.
 
 ## Screenshots
-<!-- Add some screenshots of your application here -->
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![Alt text](https://github.com/HalaGholeh/Pizza-Restaurant-Application/blob/main/screenshots/start.jpg?raw=true)
+![Alt text]([https://github.com/HalaGholeh/Pizza-Restaurant-Application/blob/main/screenshots/start.jpg?raw=true](https://github.com/HalaGholeh/Pizza-Restaurant-Application/blob/main/screenshots/logIn_signUp.jpg?raw=true))
+![Alt text]([https://github.com/HalaGholeh/Pizza-Restaurant-Application/blob/main/screenshots/start.jpg?raw=true](https://github.com/HalaGholeh/Pizza-Restaurant-Application/blob/main/screenshots/history.jpg?raw=true))
+![Alt text]([https://github.com/HalaGholeh/Pizza-Restaurant-Application/blob/main/screenshots/start.jpg?raw=true](https://github.com/HalaGholeh/Pizza-Restaurant-Application/blob/main/screenshots/menu.jpg?raw=true))
 
 # Large Project File
 
