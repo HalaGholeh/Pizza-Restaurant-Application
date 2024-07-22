@@ -1,7 +1,4 @@
 # Pizza-Restaurant-Application
-# Advance Pizza
-
-![Advance Pizza Logo](path/to/logo.png) <!-- You can add a logo if available -->
 
 ## Table of Contents
 - [Project Description](#project-description)
