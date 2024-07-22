@@ -68,16 +68,6 @@ Advance Pizza is an Android application designed for a pizza restaurant to enabl
 ![Screenshot 1](path/to/screenshot1.png)
 ![Screenshot 2](path/to/screenshot2.png)
 
-## Contributing
-Contributions are welcome! Please fork this repository and submit a pull request for any enhancements or bug fixes.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any inquiries or feedback, please contact:
-- Email: AdvancePizza@Pizza.com
-
 ---
 
 Happy ordering with Advance Pizza! 🍕
