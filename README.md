@@ -7,9 +7,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Project Description
 Advance Pizza is an Android application designed for a pizza restaurant to enable its customers to order pizzas online or through a local database. The app is user-friendly and includes various functionalities to enhance the customer experience.
@@ -64,6 +61,12 @@ Advance Pizza is an Android application designed for a pizza restaurant to enabl
 <!-- Add some screenshots of your application here -->
 ![Screenshot 1](path/to/screenshot1.png)
 ![Screenshot 2](path/to/screenshot2.png)
+
+# Large Project File
+
+The project file is too large to be uploaded directly to GitHub. You can download it from the following link:
+
+[Download Project File] (https://drive.google.com/file/d/1VXgQMf0iPepnC1TmaN9Qm1dFssBIUEkQ/view?usp=sharing)
 
 ---
 
