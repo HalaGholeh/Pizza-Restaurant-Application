@@ -4,7 +4,6 @@
 - [Project Description](#project-description)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 
@@ -40,15 +39,6 @@ Advance Pizza is an Android application designed for a pizza restaurant to enabl
 - Fragments
 - Shared Preferences
 - REST API
-
-## Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/advance-pizza.git
-    ```
-2. Open the project in Android Studio.
-3. Sync the project with Gradle files.
-4. Run the project on an emulator or a physical device.
 
 ## Usage
 1. Launch the app.
