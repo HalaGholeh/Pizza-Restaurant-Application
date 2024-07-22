@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/menu_background">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_View_pizza"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="240dp"
+        android:layout_marginBottom="80dp"
+        android:foregroundTint="#717070"
+        android:padding="16dp" />
+</LinearLayout>

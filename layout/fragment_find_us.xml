@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/background2">
+
+    <TextView
+        android:id="@+id/resturant_name2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="50dp"
+        android:fontFamily="sans-serif-medium"
+        android:lineSpacingExtra="10sp"
+        android:paddingVertical="10dp"
+        android:text="Pizza Hub"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="#B8B5B5"
+        android:textSize="50sp"
+        android:textStyle="bold" />
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_marginTop="-40dp"
+        android:layout_marginBottom="20dp"
+        android:background="#B8B5B5"
+        />
+
+    <ImageView
+        android:id="@+id/imageViewfindUs"
+        android:layout_width="match_parent"
+        android:layout_height="282dp"
+        app:srcCompat="@drawable/animation" />
+
+    <Button
+        android:id="@+id/button_call_restaurant"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Call Restaurant"
+        android:textSize="18sp"
+        android:background="@drawable/rounded_corner2"/>
+
+    <Button
+        android:id="@+id/button_open_maps"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Find Us on Maps"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp"
+        android:background="@drawable/rounded_corner2"/>
+
+    <Button
+        android:id="@+id/button_send_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Email"
+        android:layout_marginTop="16dp"
+        android:textSize="18sp"
+        android:background="@drawable/rounded_corner2"/>
+
+</LinearLayout>

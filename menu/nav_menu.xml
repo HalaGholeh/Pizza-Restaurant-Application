@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/baseline_home_24"
+            android:title="Home"/>
+
+        <item
+            android:id="@+id/nav_menu"
+            android:icon="@drawable/pizza_menu"
+            android:title="Pizza Menu"/>
+
+        <item
+            android:id="@+id/nav_orders"
+            android:icon="@drawable/your_order"
+            android:title="Your Orders"/>
+
+        <item
+            android:id="@+id/nav_favorites"
+            android:icon="@drawable/baseline_favorite_24"
+            android:title="Your Favorites"/>
+
+        <item
+            android:id="@+id/nav_offers"
+            android:icon="@drawable/special_offers"
+            android:title="Special Offers"/>
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/profile"
+            android:title="Profile"/>
+
+        <item
+            android:id="@+id/nav_findUs"
+            android:icon="@drawable/find_us"
+            android:title="Find Us"/>
+
+    </group>
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/logout"
+        android:title="Logout"/>
+
+</menu>

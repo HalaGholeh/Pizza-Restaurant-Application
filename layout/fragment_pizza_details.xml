@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/background2">
+
+    <ImageView
+        android:id="@+id/pizza_imageView"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="50dp"
+        app:srcCompat="@drawable/margarita"
+        android:rotation="-90"/>
+
+    <TextView
+        android:id="@+id/pizza_nameM"
+        android:layout_width="match_parent"
+        android:layout_height="115dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/rounded_corner2"
+        android:fontFamily="sans-serif-medium"
+        android:paddingLeft="20dp"
+        android:paddingTop="20dp"
+        android:textColor="@color/black"
+        android:textSize="24sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="16dp">
+
+        <Button
+            android:id="@+id/order_nowM"
+            android:layout_width="319dp"
+            android:layout_height="50dp"
+            android:background="@drawable/rounded_corner"
+            android:text="Order Now"
+            android:textSize="16sp"/>
+
+        <Button
+            android:id="@+id/add_to_favM"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/unfavorite" />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
